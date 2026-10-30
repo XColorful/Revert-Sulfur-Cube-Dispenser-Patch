@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.xcolorful.revertsulfurecubedispenser.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SulfurCubeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
